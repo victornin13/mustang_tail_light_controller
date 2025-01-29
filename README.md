@@ -1,6 +1,6 @@
 # Mustang Tail Light Controller
 
-    ![mustang_tail_lights](https://github.com/user-attachments/assets/0f006cf7-bdce-4f7a-9d91-dbd62ee52f24)
+![mustang_tail_lights](https://github.com/user-attachments/assets/0f006cf7-bdce-4f7a-9d91-dbd62ee52f24)
 
 Designed and implemented a Mustang Tail Light Controller in Verilog, featuring sequential light patterns for turn signals and brake integration. Key features include:
 
